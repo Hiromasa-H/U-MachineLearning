@@ -1,7 +1,13 @@
 .DS_Store
 Association Rule Learning/.DS_Store
 Classification/.DS_Store
-
+Clustering/.DS_Store
+Deep Learning/.DS_Store
+Dimensionality Reduction/.DS_Store
+Model Selection & Boosting/.DS_Store
+Natural Language Processing/.DS_Store
+Regression/.DS_Store
+Reinforcement Learning/.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
